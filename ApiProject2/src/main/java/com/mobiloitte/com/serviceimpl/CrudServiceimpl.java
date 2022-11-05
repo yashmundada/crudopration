@@ -77,15 +77,7 @@ public class CrudServiceimpl implements CrudService {
 		}
 
 	}
-	//all users data get 
 	
-	
-	
-	
-	
-	//get by first name
-		
-		
 	@Override
 	public SignUpModel getByFirstName(String firstName) {
 
